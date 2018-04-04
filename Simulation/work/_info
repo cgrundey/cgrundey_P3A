@@ -1,0 +1,243 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P2/tx_rx_system
+vdual_converter_cgrundey
+Z0 !s110 1522804021
+!i10b 1
+!s100 K@^EfWFJVeRGjMc@fJM3Y3
+IWQh6;3[0MDI^OU?PmdAAK3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/Simulation
+w1522797865
+8C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/dual_converter_cgrundey.v
+FC:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/dual_converter_cgrundey.v
+L0 8
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1522804021.000000
+!s107 C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/dual_converter_cgrundey.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/dual_converter_cgrundey.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vproject3aTest
+R0
+!i10b 1
+!s100 hEhfB2J@m6Oh36GWa`=aB3
+I55QUnB@dZoPbC97zX_bV20
+R1
+R2
+w1508973581
+8C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/project3aTest.v
+FC:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/project3aTest.v
+L0 12
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/project3aTest.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/project3aTest.v|
+!s101 -O0
+!i113 1
+R5
+nproject3a@test
+vproject3aTop
+Z6 !s110 1522804022
+!i10b 1
+!s100 fSP^RPUS@9RY<<D0GR3A<1
+I9IZOd]GJm`7hK;n;o48aA0
+R1
+R2
+w1522800942
+8C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/project3aTop.v
+FC:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/project3aTop.v
+L0 16
+R3
+r1
+!s85 0
+31
+Z7 !s108 1522804022.000000
+!s107 C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/project3aTop.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/project3aTop.v|
+!s101 -O0
+!i113 1
+R5
+nproject3a@top
+vseven_segment_display_driver_cgrundey
+R6
+!i10b 1
+!s100 faM?HFAo=E1VolE81PIGA1
+I0^l=hT_TCKBV<b1=kkj;32
+R1
+R2
+w1522778937
+8C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/seven_segment_display_driver_cgrundey.v
+FC:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/seven_segment_display_driver_cgrundey.v
+L0 9
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/seven_segment_display_driver_cgrundey.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/seven_segment_display_driver_cgrundey.v|
+!s101 -O0
+!i113 1
+R5
+vsn184_cgrundey
+R6
+!i10b 1
+!s100 K]]6<ba4ZUk^nnae@`Wmi0
+Ig>FW6]k^FcWkUJo`hCKI;0
+R1
+R2
+w1522782699
+8C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/sn184_cgrundey.v
+FC:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/sn184_cgrundey.v
+Z8 L0 11
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/sn184_cgrundey.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/sn184_cgrundey.v|
+!s101 -O0
+!i113 1
+R5
+vsn185_cgrundey
+Z9 !s110 1522804023
+!i10b 1
+!s100 P_zY9XPNk<SK7[nCc`9me0
+I5JI]f==a<<9X?WoDaSaFI2
+R1
+R2
+w1522781430
+8C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/sn185_cgrundey.v
+FC:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/sn185_cgrundey.v
+R8
+R3
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/sn185_cgrundey.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/sn185_cgrundey.v|
+!s101 -O0
+!i113 1
+R5
+vsymbol_driver_cgrundey
+R9
+!i10b 1
+!s100 Q8<dFnPomG^i[g9f]g>g_0
+ID>^bAB4@gzQg<5]5Ei5N?1
+R1
+R2
+w1522371184
+8C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/symbol_driver_cgrundey.v
+FC:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/symbol_driver_cgrundey.v
+L0 9
+R3
+r1
+!s85 0
+31
+Z10 !s108 1522804023.000000
+!s107 C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/symbol_driver_cgrundey.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/symbol_driver_cgrundey.v|
+!s101 -O0
+!i113 1
+R5
+vtb_dual_converter_cgrundey
+R9
+!i10b 1
+!s100 GX`fK_VZa:3cB<zEI9PNN0
+I[n49OkfO9]QX1DhzX^ZGk2
+R1
+R2
+w1522802086
+8C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/tb_dual_converter_cgrundey.v
+FC:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/tb_dual_converter_cgrundey.v
+R8
+R3
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/tb_dual_converter_cgrundey.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/tb_dual_converter_cgrundey.v|
+!s101 -O0
+!i113 1
+R5
+vtb_project3a
+R9
+!i10b 1
+!s100 WBY6:D9X29=eGYY[[`oD00
+I@ckT=HW>:ko4W3c7HoNGF0
+R1
+R2
+w1522803980
+8C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/tb_project3a.v
+FC:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/tb_project3a.v
+R8
+R3
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/tb_project3a.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/tb_project3a.v|
+!s101 -O0
+!i113 1
+R5
+vtb_seven_segment_display_driver_cgrundey
+!s110 1522804024
+!i10b 1
+!s100 ]cnR9kLXM]@ObLGObj]@;2
+IdHDJFNOJi6KbOF9C?`a0a2
+R1
+R2
+w1522802539
+8C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/tb_seven_segment_display_driver_cgrundey.v
+FC:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/tb_seven_segment_display_driver_cgrundey.v
+R8
+R3
+r1
+!s85 0
+31
+!s108 1522804024.000000
+!s107 C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/tb_seven_segment_display_driver_cgrundey.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/tb_seven_segment_display_driver_cgrundey.v|
+!s101 -O0
+!i113 1
+R5
+vtb_symbol_driver_cgrundey
+R0
+!i10b 1
+!s100 mN[jEU6LC6VGXQoZNYIbM0
+I]OOn1mGg2bnZSLh^VTR2V2
+R1
+R2
+w1522802164
+8C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/tb_symbol_driver_cgrundey.v
+FC:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/tb_symbol_driver_cgrundey.v
+R8
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/tb_symbol_driver_cgrundey.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/tb_symbol_driver_cgrundey.v|
+!s101 -O0
+!i113 1
+R5

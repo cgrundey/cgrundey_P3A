@@ -1,0 +1,27 @@
+Quartus Prime Archive log --	C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/project3aTopcgrundey.qarlog
+
+Archive:	C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/project3aTopcgrundey.qar
+Date:		Tue Apr 03 21:31:46 2018
+Quartus Prime		16.1.0 Build 196 10/24/2016 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/assignment_defaults.qdf
+C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/dual_converter_cgrundey.v
+C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/project3aTest.v
+C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/project3aTop.SDC
+C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/project3aTop.qpf
+C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/project3aTop.qsf
+C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/project3aTop.v
+C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/project3aTop_assignment_defaults.qdf
+C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/seven_segment_display_driver_cgrundey.v
+C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/sn184_cgrundey.v
+C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/sn185_cgrundey.v
+C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/symbol_driver_cgrundey.v
+C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/tb_dual_converter_cgrundey.v
+C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/tb_project3a.v
+C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/tb_seven_segment_display_driver_cgrundey.v
+C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/tb_symbol_driver_cgrundey.v
+	======= Total: 16 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

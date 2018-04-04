@@ -1,0 +1,7 @@
+
+// Filename:	seven_segment_display_driver_cgrundey.v
+// Author:		Colin Grundey
+// Date:			29 March 2018
+// Version:		1
+// Description: Generates 7-bit output to display corresponding 
+//              to given 4-bit decimal number.

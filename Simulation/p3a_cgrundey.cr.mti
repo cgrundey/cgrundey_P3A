@@ -1,0 +1,82 @@
+C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/tb_project3a.v {1 {vlog -work work -stats=none C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/tb_project3a.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_project3a
+
+Top level modules:
+	tb_project3a
+
+} {} {}} C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/tb_seven_segment_display_driver_cgrundey.v {1 {vlog -work work -stats=none C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/tb_seven_segment_display_driver_cgrundey.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_seven_segment_display_driver_cgrundey
+
+Top level modules:
+	tb_seven_segment_display_driver_cgrundey
+
+} {} {}} C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/symbol_driver_cgrundey.v {2 {vlog -work work -stats=none C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/symbol_driver_cgrundey.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module symbol_driver_cgrundey
+** Warning: C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/symbol_driver_cgrundey.v(15): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/symbol_driver_cgrundey.v(15): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+
+Top level modules:
+	symbol_driver_cgrundey
+
+} {} {}} C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/dual_converter_cgrundey.v {1 {vlog -work work -stats=none C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/dual_converter_cgrundey.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module dual_converter_cgrundey
+
+Top level modules:
+	dual_converter_cgrundey
+
+} {} {}} C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/tb_dual_converter_cgrundey.v {1 {vlog -work work -stats=none C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/tb_dual_converter_cgrundey.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_dual_converter_cgrundey
+
+Top level modules:
+	tb_dual_converter_cgrundey
+
+} {} {}} C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/sn184_cgrundey.v {1 {vlog -work work -stats=none C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/sn184_cgrundey.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module sn184_cgrundey
+
+Top level modules:
+	sn184_cgrundey
+
+} {} {}} C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/project3aTop.v {1 {vlog -work work -stats=none C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/project3aTop.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module project3aTop
+
+Top level modules:
+	project3aTop
+
+} {} {}} C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/tb_symbol_driver_cgrundey.v {1 {vlog -work work -stats=none C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/tb_symbol_driver_cgrundey.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_symbol_driver_cgrundey
+
+Top level modules:
+	tb_symbol_driver_cgrundey
+
+} {} {}} C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/sn185_cgrundey.v {1 {vlog -work work -stats=none C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/sn185_cgrundey.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module sn185_cgrundey
+
+Top level modules:
+	sn185_cgrundey
+
+} {} {}} C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/seven_segment_display_driver_cgrundey.v {1 {vlog -work work -stats=none C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/seven_segment_display_driver_cgrundey.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module seven_segment_display_driver_cgrundey
+
+Top level modules:
+	seven_segment_display_driver_cgrundey
+
+} {} {}} C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/project3aTest.v {1 {vlog -work work -stats=none C:/Users/cjgru/Documents/Senior/Digital_Design_I/cgrundey_P3A/project3aTop_restored/project3aTest.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module project3aTest
+
+Top level modules:
+	project3aTest
+
+} {} {}}

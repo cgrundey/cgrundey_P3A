@@ -1,0 +1,12 @@
+
+// Filename:	dual_converter_cgrundey.v
+// Author:		Colin Grundey
+// Date:			29 March 2018
+// Version:		1
+// Description: Sets the output mode to either binary or BCD and
+//					 displays a b or d.
+
+module dual_converter_YOURPID(conv_sel, conv_in, conv_out);
+  input        conv_sel;
+  input  [5:0] conv_in;
+  output [5:0] conv_out;
